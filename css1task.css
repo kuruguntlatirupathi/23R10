@@ -2,6 +2,10 @@ table,tr,td{
     border:1px solid rgb(50, 114, 50)
     border-collapse:collapse;
 }
+table,td,tr{
+    width:10vw;
+    height: 10vh;
+}
 
 #td1{
     background-color:green;
